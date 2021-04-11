@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
 http://rec2.distv.net:8080/live/damaris/123456/113.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
+http://rec2.distv.net:8080/live/damaris/123456/223.ts
