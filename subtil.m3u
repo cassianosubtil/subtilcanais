@@ -2,9 +2,9 @@
 http://rec2.distv.net:8080/live/damaris/123456/223.ts
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD
 http://rec2.distv.net:8080/live/damaris/123456/224.ts
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: BBB 21
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 PRINCIPAL HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 PRINCIPAL HD
 http://rec2.distv.net:8080/live/damaris/123456/254.ts
-#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: BBB 21
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 PRINCIPAL HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 PRINCIPAL HD
 http://rec2.distv.net:8080/live/damaris/123456/255.ts
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
 http://rec2.distv.net:8080/live/damaris/123456/125.ts
@@ -21,7 +21,6 @@ http://rec2.distv.net:8080/live/damaris/123456/151.ts
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="https://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
 http://rec2.distv.net:8080/live/damaris/123456/152.ts
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
-http://rec2.distv.net:8080/live/damaris/123456/229.ts
 http://rec2.distv.net:8080/live/damaris/123456/229.ts
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Centro America HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Centro America HD
 http://rec2.distv.net:8080/live/damaris/123456/231.ts
@@ -55,3 +54,45 @@ http://rec2.distv.net:8080/live/damaris/123456/182.ts
 http://rec2.distv.net:8080/live/damaris/123456/183.ts
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
 http://rec2.distv.net:8080/live/damaris/123456/237.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+http://rec2.distv.net:8080/live/damaris/123456/184.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record RJ HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record RJ HD
+http://rec2.distv.net:8080/live/damaris/123456/33.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: Abertos",Rede TV HD
+http://rec2.distv.net:8080/live/damaris/123456/69.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Abertos",SBT HD
+http://rec2.distv.net:8080/live/damaris/123456/238.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD
+http://rec2.distv.net:8080/live/damaris/123456/187.ts
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="https://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD
+http://rec2.distv.net:8080/live/damaris/123456/123.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
+http://rec2.distv.net:8080/live/damaris/123456/189.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
+http://rec2.distv.net:8080/live/damaris/123456/190.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
+http://rec2.distv.net:8080/live/damaris/123456/188.ts
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.servidor.tv/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
+http://rec2.distv.net:8080/live/damaris/123456/191.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="https://logos.servidor.tv/tbs.png" group-title="Canais: Filme e Série",TBS HD
+http://rec2.distv.net:8080/live/damaris/123456/193.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
+http://rec2.distv.net:8080/live/damaris/123456/194.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="https://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
+http://rec2.distv.net:8080/live/damaris/123456/195.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="https://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
+http://rec2.distv.net:8080/live/damaris/123456/196.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
+http://rec2.distv.net:8080/live/damaris/123456/197.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
+http://rec2.distv.net:8080/live/damaris/123456/198.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD
+http://rec2.distv.net:8080/live/damaris/123456/199.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://logos.servidor.tv/tnt.png" group-title="Canais: Filme e Série",TNT HD
+http://rec2.distv.net:8080/live/damaris/123456/201.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://logos.servidor.tv/viva.jpg" group-title="Canais: Variedade e Música",Viva HD
+http://rec2.distv.net:8080/live/damaris/123456/207.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD
+http://rec2.distv.net:8080/live/damaris/123456/208.ts
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="Crioca" tvg-logo="" group-title="Canais: Abertos",Carioca
+http://rec2.distv.net:8080/live/damaris/123456/4.ts
