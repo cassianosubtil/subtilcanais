@@ -1,2 +1,43 @@
-http://rec2.distv.net:8080/live/damaris/123456/179.ts
-http://rec2.distv.net:8080/live/damaris/123456/182.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
+http://rec2.distv.net:8080/live/damaris/123456/223.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD
+http://rec2.distv.net:8080/live/damaris/123456/224.ts
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: BBB 21
+http://rec2.distv.net:8080/live/damaris/123456/254.ts
+#EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: BBB 21
+http://rec2.distv.net:8080/live/damaris/123456/255.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
+http://rec2.distv.net:8080/live/damaris/123456/125.ts
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil HD" tvg-logo="https://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
+http://rec2.distv.net:8080/live/damaris/123456/225.ts
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
+http://rec2.distv.net:8080/live/damaris/123456/144.ts
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="https://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD+
+http://rec2.distv.net:8080/live/damaris/123456/148.ts
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="https://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
+http://rec2.distv.net:8080/live/damaris/123456/150.ts
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="https://logos.servidor.tv/foxpremium2.jpg" group-title="Canais: Filme e Série",Fox Premium 2 HD
+http://rec2.distv.net:8080/live/damaris/123456/151.ts
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="https://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
+http://rec2.distv.net:8080/live/damaris/123456/152.ts
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
+http://canais.servidor.tv:8080/5259q1/9fb9cx/1469
+http://rec2.distv.net:8080/live/damaris/123456/229.ts
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Centro America HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Centro America HD
+http://rec2.distv.net:8080/live/damaris/123456/231.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
+http://rec2.distv.net:8080/live/damaris/123456/157.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD
+http://rec2.distv.net:8080/live/damaris/123456/156.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
+http://rec2.distv.net:8080/live/damaris/123456/158.ts
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD+" tvg-logo="https://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD+
+http://rec2.distv.net:8080/live/damaris/123456/159.ts
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
+http://rec2.distv.net:8080/live/damaris/123456/160.ts
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="https://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD
+http://rec2.distv.net:8080/live/damaris/123456/161.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD
+http://rec2.distv.net:8080/live/damaris/123456/168.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="Canais: Variedade e Música",Multishow HD
+http://rec2.distv.net:8080/live/damaris/123456/170.ts
