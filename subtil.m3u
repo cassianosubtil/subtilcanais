@@ -1,2 +1,4 @@
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
+http://rec2.distv.net:8080/live/damaris/123456/114.ts
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
 http://rec2.distv.net:8080/live/damaris/123456/223.ts
