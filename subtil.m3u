@@ -12,7 +12,7 @@ http://rec2.distv.net:8080/live/damaris/123456/224.ts
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="https://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD
 http://rec2.distv.net:8080/live/damaris/123456/118.ts
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD
-http://canais.servidor.tv:8080/5259q1/9fb9cx/1495
+http://rec2.distv.net:8080/live/damaris/123456/119.ts
 #EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 01 HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 01 HD
 http://rec2.distv.net:8080/live/damaris/123456/254.ts
 #EXTINF:-1 tvg-id="Big Brother Brasil" tvg-name="BBB 21 CAM 02 HD" tvg-logo="https://logos.servidor.tv/bbb.png" group-title="Canais: Big Brother Brasil",BBB 21 CAM 02 HD
